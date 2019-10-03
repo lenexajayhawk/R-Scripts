@@ -1,6 +1,8 @@
 # Calculating Risk-adjusted Returns by Participant with 5-year PRORs using the Johnson Effect
 # We are NOT using Sharpe ratios but closer to standardized scores (z-scores)
 
+# Adding this new comment to see how it works when I commit the change in GitHub
+
 ##### BEGIN CODE NOTES #####
 # Volatility-adjusted Rates of Return (VAR) are calculated based on two principal methodologies: Sharpe ratios and statistical standardization.
 # Sharpe ratios are the result of time-driven returns of individual investments such as mutual funds; for example, Sharpe ratios are developed
